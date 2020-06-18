@@ -1,0 +1,59 @@
+﻿$PBExportHeader$d_rich.srd
+release 17;
+datawindow(units=2 timer_interval=0 color=1073741824 processing=7 print.printername ="" print.documentname="" print.orientation = 0 print.margin.left = 250 print.margin.right = 250 print.margin.top = 250 print.margin.bottom = 250 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.cliptext=no print.overrideprintjob=no print.collate=yes print.background=no print.preview.background=no print.preview.outline=yes richtext.headerfooter=yes richtext.wordwrap=no richtext.popmenu=yes richtext.pictureframe=no richtext.inputfieldnamesvisible=no richtext.inputfieldsvisible=yes richtext.tabsvisible=no richtext.returnsvisible=no richtext.spacesvisible=no richtext.inputfieldbackcolor=1073741824 richtext.backcolor=1073741824 richtext.tabbar=yes richtext.rulerbar=yes richtext.toolbar=yes richtext.displayonly=no )
+detail(text="{\rtf1\sstecf25000\ansi\ansicpg1252\deflang2052\ftnbj\uc1\deff0 
+{\fonttbl{\f0 \fswiss \fcharset1 Arial;}{\f1 \fswiss \fcharset0 Arial;}}
+{\colortbl ;\red255\green255\blue255 ;\red0\green0\blue0 ;}
+{\stylesheet{\f0\fs24 Normal;}{\cs1 Default Paragraph Font;}{\s2\snext0\f0\fs24 [Normal];}}
+{\*\revtbl{Unknown;}}
+\paperw12240\paperh15840\margl0\margr0\margt0\margb0\headery720\footery720\nogrowautofit\deftab720\formshade\nofeaturethrottle1\dntblnsbdb\fet4\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot 
+\sectd\pgwsxn12240\pghsxn15840\guttersxn0\marglsxn0\margrsxn0\margtsxn0\margbsxn0\headery720\footery720\sbkpage\pgncont\pgndec 
+\plain\plain\f0\fs24\pard\ssparaaux0\s0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\ql\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\loch Department Name: \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5000{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname \{DEPARTMENT_DEPT_NAME\}}}}{\fldrslt\loch \{DEPARTMENT_DEPT_NAME\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\par 
+\loch Employee ID: \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5001{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname \{EMPLOYEE_EMP_ID\}}}}{\fldrslt\loch \{EMPLOYEE_EMP_ID\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\pard\ssparaaux0\s0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\ql\par 
+\loch First Name: \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5002{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname \{EMPLOYEE_EMP_FNAME\}}}}{\fldrslt\loch \{EMPLOYEE_EMP_FNAME\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\loch                                          \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5007{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname dwpage2}}}{\fldrslt\loch \{DWPAGE2\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\pard\ssparaaux0\s0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\ql\par 
+\loch Last Name: \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5008{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname \{EMPLOYEE_EMP_LNAME\}}}}{\fldrslt\loch \{EMPLOYEE_EMP_LNAME\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\pard\ssparaaux0\s0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\ql\par 
+\loch Sex: \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5009{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname \{EMPLOYEE_SEX\}}}}{\fldrslt\loch \{EMPLOYEE_SEX\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\pard\ssparaaux0\s0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\ql\par 
+\loch Salary: \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5010{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname \{EMPLOYEE_SALARY\}}}}{\fldrslt\loch \{EMPLOYEE_SALARY\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\pard\ssparaaux0\s0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\ql\par 
+\loch Street: \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\cf2\fs24\sscharaux5011{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname \{EMPLOYEE_STREET\}}}}{\fldrslt\loch \{EMPLOYEE_STREET\}}}\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\pard\ssparaaux0\s0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\ql\par 
+\pard\ssparaaux0\s0\ql\plain\f0\fs24}
+")
+header(text="{\rtf1\sstecf25000\ansi\ansicpg1252\deflang2052\ftnbj\uc1\deff0 
+{\fonttbl{\f0 \fswiss \fcharset1 Arial;}{\f1 \fswiss \fcharset0 Tahoma;}}
+{\colortbl ;\red255\green255\blue255 ;\red0\green0\blue0 ;}
+{\stylesheet{\f0\fs24 Normal;}{\cs1 Default Paragraph Font;}{\s2\snext0\f0\fs24 [Normal];}}
+{\*\revtbl{Unknown;}}
+\paperw12240\paperh15840\margl0\margr0\margt0\margb0\headery720\footery720\nogrowautofit\deftab720\formshade\nofeaturethrottle1\dntblnsbdb\fet4\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot 
+\sectd\pgwsxn12240\pghsxn15840\guttersxn0\marglsxn0\margrsxn0\margtsxn0\margbsxn0\headery720\footery720\sbkpage\pgncont\pgndec 
+\plain\plain\f0\fs24\pard\plain\f1\fs20\lang1033\hich\f1\dbch\f1\loch\f1\fs20\sscharaux70000{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname DWPAGE}}}{\fldrslt\loch \{DWPAGE\}}}\plain\f1\fs20\lang1033\hich\f1\dbch\f1\loch\f1\fs20\loch       }
+")
+footer(text="{\rtf1\sstecf25000\ansi\ansicpg1252\deflang2052\ftnbj\uc1\deff0 
+{\fonttbl{\f0 \fswiss \fcharset1 Arial;}{\f1 \fswiss \fcharset0 Arial;}}
+{\colortbl ;\red255\green255\blue255 ;\red0\green0\blue0 ;}
+{\stylesheet{\f0\fs24 Normal;}{\cs1 Default Paragraph Font;}{\s2\snext0\f0\fs24 [Normal];}}
+{\*\revtbl{Unknown;}}
+\paperw12240\paperh15840\margl0\margr0\margt0\margb0\headery720\footery720\nogrowautofit\deftab720\formshade\nofeaturethrottle1\dntblnsbdb\fet4\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot 
+\sectd\pgwsxn12240\pghsxn15840\guttersxn0\marglsxn0\margrsxn0\margtsxn0\margbsxn0\headery720\footery720\sbkpage\pgncont\pgndec 
+\plain\plain\f0\fs24\pard\plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\loch  \plain\f1\fs24\lang1033\hich\f1\dbch\f1\loch\f1\fs24\sscharaux70002{\field{\*\fldinst{FORMTEXT}{\*\formfield\fftype0{\*\ffname dwpage3}}}{\fldrslt\loch \{DWPAGE3\}}}}
+")table(column=(type=char(40) updatewhereclause=yes name=department_dept_name dbname="department.dept_name" )
+ column=(type=long updatewhereclause=yes name=employee_emp_id dbname="employee.emp_id" )
+ column=(type=char(20) updatewhereclause=yes name=employee_emp_fname dbname="employee.emp_fname" )
+ column=(type=char(20) updatewhereclause=yes name=employee_emp_lname dbname="employee.emp_lname" )
+ column=(type=char(1) updatewhereclause=yes name=employee_sex dbname="employee.sex" )
+ column=(type=decimal(0) updatewhereclause=yes name=employee_salary dbname="employee.salary" validation=" real(gettext())  > 0" validationmsg="'Sorry! The value must be greater than zero.'" )
+ column=(type=char(40) updatewhereclause=yes name=employee_street dbname="employee.street" )
+ retrieve="PBSELECT( VERSION(400) TABLE(NAME=~"department~" )  TABLE(NAME=~"employee~" ) COLUMN(NAME=~"department.dept_name~") COLUMN(NAME=~"employee.emp_id~") COLUMN(NAME=~"employee.emp_fname~") COLUMN(NAME=~"employee.emp_lname~") COLUMN(NAME=~"employee.sex~") COLUMN(NAME=~"employee.salary~") COLUMN(NAME=~"employee.street~")    JOIN (LEFT=~"department.dept_id~"    OP =~"=~"RIGHT=~"employee.dept_id~" )) " )
+compute(name=dwpage3 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" format="[general]" expression="'Page ' + page() + ' of ' + pageCount()" )
+compute(name=dwpage2 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" format="[general]" expression="'Page ' + page() + ' of ' + pageCount()" )
+compute(name=dwpage visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" format="[general]" expression="'Page ' + page() + ' of ' + pageCount()" )
+compute(name=dwpage1 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" format="[general]" expression="'Page ' + page() + ' of ' + pageCount()" )
+compute(name=pagecount visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" format="[general]" expression="pageCount()" )
+column(name=department_dept_name id=1 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" tabsequence=0 format="[general]" )
+column(name=employee_emp_id id=2 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" tabsequence=0 format="[general]" )
+column(name=employee_emp_fname id=3 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" tabsequence=0 format="[general]" )
+column(name=employee_emp_lname id=4 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" tabsequence=0 format="[general]" )
+column(name=employee_sex id=5 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" tabsequence=0 format="[general]" )
+column(name=employee_salary id=6 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" tabsequence=0 format="[general]" )
+column(name=employee_street id=7 visible="1" lineremove=no multiline=no width.autosize=yes width="0" alignment="0" tabsequence=0 format="[general]" )
+htmltable(border="1" cellpadding="0" cellspacing="0" generatecss="no" nowrap="yes")
+export.xml(headgroups="1" includewhitespace="0" metadatatype=0 savemetadata=0 )
+import.xml()

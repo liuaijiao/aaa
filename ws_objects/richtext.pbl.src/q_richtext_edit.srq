@@ -1,0 +1,2 @@
+﻿$PBExportHeader$q_richtext_edit.srq
+PBSELECT( VERSION(400) TABLE(NAME="pub_t_richtextedit" ) COLUMN(NAME="pub_t_richtextedit.emp_id") COLUMN(NAME="pub_t_richtextedit.dep_id") COLUMN(NAME="pub_t_richtextedit.emp_name") COLUMN(NAME="pub_t_richtextedit.emp_sex") COLUMN(NAME="pub_t_richtextedit.emp_salary") COLUMN(NAME="pub_t_richtextedit.emp_remark")) 
